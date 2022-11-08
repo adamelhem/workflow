@@ -9,6 +9,6 @@ var operations = new IStrategy[]
     new Operation3(),
     new Operation4()
 };
-var configsFile = @"C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\jsonInput.json";
+var configsFile = "jsonInput.json";
 var flow = new  Workflow(new Helper(), operations, configsFile);
 flow.Start();
