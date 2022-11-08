@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\workflow",
+    "\\workflow\\workflow"
   ],
-  "SelectedNode": "\\C:\\Users\\Adam Melhem\\Source\\Repos\\workflow",
+  "SelectedNode": "\\workflow\\workflow",
   "PreviewInSolutionExplorer": false
 }
