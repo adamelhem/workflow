@@ -13,3 +13,7 @@ C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\re
 C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.pdb
 C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.genruntimeconfig.cache
 C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\ref\workflow.dll
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\bin\Debug\net6.0\jsonInput.json
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.csproj.CopyComplete

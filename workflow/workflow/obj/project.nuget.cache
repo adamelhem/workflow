@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rAMkFHMC8Wd5Bpwclil0CUKYDCOcEmfuOZ/A6EF14mmHAlZObPG07FCOhdI7jyGRLFLTDtm3VccY6HJhHus5Cg==",
+  "dgSpecHash": "7BgeYSzae4RWOLdf1ghLdzGPUzpJkbLr59yAe+BgDoNUejjAII4xj2jD/Mn3YK7aOZ01h10/ZvtMFU2hRPnQ6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adam Melhem\\source\\repos\\workflow\\workflow\\workflow\\workflow.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam Melhem\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Adam Melhem\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
