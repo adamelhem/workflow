@@ -1,0 +1,15 @@
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\bin\Debug\net6.0\workflow.exe
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\bin\Debug\net6.0\workflow.deps.json
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\bin\Debug\net6.0\workflow.runtimeconfig.json
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\bin\Debug\net6.0\workflow.dll
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\bin\Debug\net6.0\workflow.pdb
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.csproj.AssemblyReference.cache
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.AssemblyInfoInputs.cache
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.AssemblyInfo.cs
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.csproj.CoreCompileInputs.cache
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.dll
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\refint\workflow.dll
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.pdb
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\workflow.genruntimeconfig.cache
+C:\Users\Adam Melhem\source\repos\workflow\workflow\workflow\obj\Debug\net6.0\ref\workflow.dll
