@@ -66,7 +66,7 @@ Etc.
  "id": 2,
  "operationName": "operation 3",
  "nextIdIfOutputIsLessThan": 5,
- "nextIdIfOutsGreaterThan": 3
+ "nextIdIfOutputIsGreaterThan": 3
  },
  {
  "id": 3,
